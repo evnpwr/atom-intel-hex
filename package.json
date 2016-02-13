@@ -1,17 +1,17 @@
 {
     "name": "intel-hex",
     "version": "0.0.0",
-    "description": "View and edit Intel Hex files in Atom",
+    "description": "Syntax highlighting for Intel hex files.",
     "engines": {
         "atom": "*"
     },
     "dependencies": {},
     "repository": {
         "type": "git",
-        "url": "TBD"
+        "url": "https://github.com/evnpwr/atom-intel-hex.git"
     },
     "bugs": {
-        "url": "TBD"
+        "url": "https://github.com/evnpwr/atom-intel-hex/issues"
     },
-    "license": "TBD"
+    "license": "GPLv3"
 }
