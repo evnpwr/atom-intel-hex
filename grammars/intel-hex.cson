@@ -1,0 +1,20 @@
+'scopeName': 'source.intel-hex'
+'name': 'IntelHex'
+'fileTypes': ['hex']
+
+'patterns': [
+    {
+        'match': '^:([0-9a-fA-F]{2})([0-9a-fA-F]{4})([0-9a-fA-F]{2})([0-9a-fA-F]*)(.{2})$'
+        'captures':
+            '1':
+                'name': 'constant.numeric.intel-hex'
+            '2':
+                'name': 'storage.type.intel-hex'
+            '3':
+                'name': 'entity.name.function.intel-hex'
+            '4':
+                'name': 'string.quoted.single.intel-hex'
+            '5':
+                'name': 'constant.language.intel-hex'
+    }
+]
