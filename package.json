@@ -1,17 +1,17 @@
 {
-    "name": "intel-hex",
-    "version": "0.0.0",
-    "description": "Syntax highlighting for Intel hex files.",
-    "engines": {
-        "atom": "*"
-    },
-    "dependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/evnpwr/atom-intel-hex.git"
-    },
-    "bugs": {
-        "url": "https://github.com/evnpwr/atom-intel-hex/issues"
-    },
-    "license": "GPLv3"
+  "name": "intel-hex",
+  "version": "0.1.0",
+  "description": "Syntax highlighting for Intel hex files.",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evnpwr/atom-intel-hex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evnpwr/atom-intel-hex/issues"
+  },
+  "license": "GPLv3"
 }
