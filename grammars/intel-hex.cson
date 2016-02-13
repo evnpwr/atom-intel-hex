@@ -1,3 +1,6 @@
+###
+Copyright 2016 Evan Power
+###
 'scopeName': 'source.intel-hex'
 'name': 'IntelHex'
 'fileTypes': ['hex']
